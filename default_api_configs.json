@@ -1,0 +1,10 @@
+  {
+    "auth_type": "xauth",
+    "same_oauth_url": true,
+    "no_version_suffix": false,
+    "consumer_key": "3nVuSoBZnx6U4vzUxf5w",
+    "consumer_secret": "Bcs59EFbbsdF6Sl9Ng71smgStWEGwXXKSjYvPVt7qys",
+    "apiVersion": 1,
+    "callbackUrl":"oob",
+    "http_headers":[],
+  }
