@@ -1,9 +1,9 @@
 {
-"auth_type": "xauth",
+"auth_type": "oauth",
 "same_oauth_url": true,
 "no_version_suffix": false,
-"consumer_key": "3nVuSoBZnx6U4vzUxf5w",
-"consumer_secret": "Bcs59EFbbsdF6Sl9Ng71smgStWEGwXXKSjYvPVt7qys",
+"consumer_key": "iujZbFdt4fQjHhSa9PSdVy4gy",
+"consumer_secret": "gN13C3WQD5ZHogfiDwAxIWoRqt4qUmyV7Y3FDEa9pWp2J5Undj",
 "apiVersion": 1517,
 "callbackUrl":"oob",
 "clientName":"TwitterAndroid",
