@@ -1,13 +1,1 @@
-{
-"auth_type": "xauth",
-"same_oauth_url": true,
-"no_version_suffix": false,
-"consumer_key": "3nVuSoBZnx6U4vzUxf5w",
-"consumer_secret": "Bcs59EFbbsdF6Sl9Ng71smgStWEGwXXKSjYvPVt7qys",
-"apiVersion": 1517,
-"callbackUrl":"oob",
-"clientName":"TwitterAndroid",
-"versionName":"8.50.0-release.02",
-"twitterApiVersion":"5",
-"internalVersionName":"18500002-r-2"
-}
+{}
