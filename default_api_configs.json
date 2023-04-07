@@ -1,1 +1,11 @@
-{}
+{
+"auth_type": "xauth",
+"same_oauth_url": true,
+"no_version_suffix": false,
+"consumer_key": "CjulERsDeqhhjSme66ECg",
+"consumer_secret": "IQWdVyqFxghAtURHGeGiWAsmCAGmdW3WmbEx6Hck",
+"apiVersion": 1518,
+"callbackUrl":"oob",
+"client_type":"ipad_official",
+"User-Agent":"Twitter/6.75.2 CFNetwork/811.4.18 Darwin/16.5.0"
+}
