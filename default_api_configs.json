@@ -1,16 +1,14 @@
 {
-"auth_type": "oauth",
+"auth_type": "xauth",
 "same_oauth_url": true,
 "no_version_suffix": false,
-"consumer_key": "3rJOl1ODzm9yZy63FACdg",
-"consumer_secret": "5jPoQ5kQvMJFDYRNE8bQ4rHuds4xJqhvgNJM4awaE8",
+"consumer_key": "3nVuSoBZnx6U4vzUxf5w",
+"consumer_secret": "Bcs59EFbbsdF6Sl9Ng71smgStWEGwXXKSjYvPVt7qys",
 "apiVersion": 1518,
 "callbackUrl":"oob",
-"clientName":"Twitter-Mac",
-"versionName":"6.41.0",
-"platformName":"Mac",
-"client_type":"mac_official",
-"platformVersion":"10.12.3",
-"platformArchitecture":"x86_64",
-"internalVersionName":"5002734"
+"clientName":"TwitterAndroid",
+"versionName":"8.50.0-release.02",
+"twitterApiVersion":"5",
+"client_type":"android_official",
+"internalVersionName":"18500002-r-2"
 }
