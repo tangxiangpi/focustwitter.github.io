@@ -1,11 +1,16 @@
 {
-"auth_type": "xauth",
+"auth_type": "oauth",
 "same_oauth_url": true,
 "no_version_suffix": false,
-"consumer_key": "CjulERsDeqhhjSme66ECg",
-"consumer_secret": "IQWdVyqFxghAtURHGeGiWAsmCAGmdW3WmbEx6Hck",
+"consumer_key": "3rJOl1ODzm9yZy63FACdg",
+"consumer_secret": "5jPoQ5kQvMJFDYRNE8bQ4rHuds4xJqhvgNJM4awaE8",
 "apiVersion": 1518,
 "callbackUrl":"oob",
-"client_type":"ipad_official",
-"User-Agent":"Twitter/6.75.2 CFNetwork/811.4.18 Darwin/16.5.0"
+"clientName":"Twitter-Mac",
+"versionName":"6.41.0",
+"platformName":"Mac",
+"client_type":"mac_official",
+"platformVersion":"10.12.3",
+"platformArchitecture":"x86_64",
+"internalVersionName":"5002734"
 }
